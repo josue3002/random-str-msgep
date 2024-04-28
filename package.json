@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msgep",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josue Gullo <josuegullo163@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josue3002/random-str-msgep/issues"
+  },
+  "homepage": "https://github.com/josue3002/random-str-msgep",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
